@@ -1,0 +1,204 @@
+{
+  "created_at": "Mon Jul 06 10:24:51 +0000 2020",
+  "id": 1280085294134358000,
+  "id_str": "1280085294134358016",
+  "text": "まさか…シャープ公式さんからの返信で震えています(西野カナ) https://t.co/1suOc3Yn5l",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1280085289306738700,
+        "id_str": "1280085289306738689",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/EcPGyddU0AE9HTs.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EcPGyddU0AE9HTs.jpg",
+        "url": "https://t.co/1suOc3Yn5l",
+        "display_url": "pic.twitter.com/1suOc3Yn5l",
+        "expanded_url": "https://twitter.com/FUKADA0318/status/1280085294134358016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 625,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1241,
+            "h": 1140,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1102,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1280085289306738700,
+        "id_str": "1280085289306738689",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/EcPGyddU0AE9HTs.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EcPGyddU0AE9HTs.jpg",
+        "url": "https://t.co/1suOc3Yn5l",
+        "display_url": "pic.twitter.com/1suOc3Yn5l",
+        "expanded_url": "https://twitter.com/FUKADA0318/status/1280085294134358016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 625,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1241,
+            "h": 1140,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1102,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1280085289310883800,
+        "id_str": "1280085289310883840",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/EcPGydeUEAAcwRR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EcPGydeUEAAcwRR.jpg",
+        "url": "https://t.co/1suOc3Yn5l",
+        "display_url": "pic.twitter.com/1suOc3Yn5l",
+        "expanded_url": "https://twitter.com/FUKADA0318/status/1280085294134358016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 217,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1242,
+            "h": 396,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1029863486619172900,
+    "id_str": "1029863486619172865",
+    "name": "深田えいみ 大喜利お姉さん",
+    "screen_name": "FUKADA0318",
+    "location": "💌台東区上野2-12-4 かま栄ビル3階",
+    "description": "大喜利AV女優 / 株)フォーティーフォーマネジメント所属/22歳/F cup/请多关照♡잘 부탁드립니다 ♡企業案件はこちら→ info@ffgh.co.jp",
+    "url": "https://t.co/IL3E6qArAE",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/IL3E6qArAE",
+            "expanded_url": "https://www.instagram.com/fuka_da0318",
+            "display_url": "instagram.com/fuka_da0318",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1327069,
+    "friends_count": 160,
+    "listed_count": 3376,
+    "created_at": "Wed Aug 15 22:52:43 +0000 2018",
+    "favourites_count": 1194,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1465,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1198752983586000896/Yh0lmEae_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198752983586000896/Yh0lmEae_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4225,
+  "favorite_count": 35155,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "ja"
+}
